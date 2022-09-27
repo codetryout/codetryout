@@ -1,6 +1,5 @@
 ### Hi there 👋
-🔭 I’m currently working on the project CodeTryout.com, you can see the libe project here, https://codetryout.com/ ...
-
+🔭 I’m currently working on the project CodeTryout.com. You can see the live project here, https://codetryout.com/ 
 Thanks for visiting my GitHub profile
 
 <!--
